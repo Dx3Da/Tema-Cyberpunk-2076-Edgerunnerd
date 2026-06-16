@@ -1,0 +1,29 @@
+/* Fundo geral */
+.monaco-workbench {
+    background: transparent !important;
+}
+
+/* Imagem do editor */
+.monaco-editor,
+.monaco-editor-background,
+.monaco-workbench .part.editor {
+    background-image: url("../assets/cyberpunk-cidade.png") !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+}
+
+/* Transparência para enxergar o fundo */
+.monaco-editor-background {
+    background-color: rgba(8, 10, 15, 0.60) !important;
+}
+
+/* Sidebar escura */
+.monaco-workbench .part.sidebar {
+    background-color: rgba(12, 15, 23, 0.88) !important;
+}
+
+/* Barra superior */
+.monaco-workbench .part.titlebar {
+    background-color: rgba(5, 7, 10, 0.95) !important;
+}

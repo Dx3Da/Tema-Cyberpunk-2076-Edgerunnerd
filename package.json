@@ -1,8 +1,9 @@
 {
   "name": "night-city-cyberpunk-edgerunnerd",
   "displayName": "Night City Cyberpunk Edgerunnerd",
-  "description": "Um tema escuro com amarelo neon, ciano e rosa choque inspirado em Cyberpunk 2076 Edgerunnerd",
+  "description": "Um tema escuro com amarelo neon, ciano e rosa  inspirado em Cyberpunk 2076 Edgerunnerd",
   "version": "0.0.1",
+  "publisher": "luizfernando",
   "engines": {
     "vscode": "^1.120.0"
   },
@@ -12,7 +13,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Night City Dark",
+        "label": "Cyberpunk Edgerunnerd",
         "uiTheme": "vs-dark",
         "path": "./themes/Night City Dark-color-theme.json"
       }
