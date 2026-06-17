@@ -1,0 +1,10 @@
+.git
+.gitignore
+.vscode
+.github
+node_modules
+npm-debug.log
+*.vsix
+.DS_Store
+Thumbs.db
+CHANGELOG.md
