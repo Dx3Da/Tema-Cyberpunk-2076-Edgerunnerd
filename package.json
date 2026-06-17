@@ -1,21 +1,51 @@
 {
-  "name": "night-city-cyberpunk-edgerunnerd",
-  "displayName": "Night City Cyberpunk Edgerunnerd",
-  "description": "Um tema escuro com amarelo neon, ciano e rosa  inspirado em Cyberpunk 2076 Edgerunnerd",
-  "version": "0.0.1",
+  "name": "night-city-cyberpunk-Edgerunners",
+  "displayName": "Night City Cyberpunk Edgerunners",
+  "description": "A neon cyberpunk VS Code theme inspired by Cyberpunk: Edgerunners, featuring yellow, cyan and pink aesthetics from Night City.",
+  "version": "0.0.2",
   "publisher": "luizfernando",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.120.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "cyberpunk",
+    "cyberpunk2077",
+    "Edgerunners",
+    "night-city",
+    "neon",
+    "dark-theme",
+    "yellow-theme",
+    "anime",
+    "vscode-theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dx3Da/Tema-Cyberpunk-2076-Edgerunners"
+  },
+  "bugs": {
+    "url": "https://github.com/Dx3Da/Tema-Cyberpunk-2076-Edgerunners"
+  },
+  "homepage": "https://github.com/Dx3Da/Tema-Cyberpunk-2076-Edgerunners",
   "contributes": {
     "themes": [
       {
-        "label": "Cyberpunk Edgerunnerd",
+        "label": "Cyberpunk Edgerunners",
         "uiTheme": "vs-dark",
-        "path": "./themes/Night City Dark-color-theme.json"
+        "path": "./themes/Cyberpunk Edgerunners-color-theme.json"
+      },
+      {
+        "label": "Arasaka",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Arasaka-color-theme.json"
+      },
+      {
+        "label": "Cidade: Night City",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cidade Night City-color-theme.json"
       }
     ]
   }

@@ -44,7 +44,7 @@ An optional wallpaper setup is available for a full immersive cyberpunk experien
 Example:
 
 ```md
-![Theme Preview](./screenshots/preview-1.png)
+![Theme Preview](.vscode/assets/cyberpunk-cidade.png)
 ```
 
 ---
@@ -133,7 +133,7 @@ Example (Windows):
 
 ```json
 "vscode_custom_css.imports": [
-  "file:///C:/Users/Luiz/Desktop/night-city-theme/css/cidade.css"
+  "file:///C:/Users/Desktop/night-city-theme/css/cidade.css"
 ]
 ```
 
