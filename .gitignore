@@ -1,0 +1,20 @@
+# VS Code Theme Build Files
+*.vsix
+
+# Node modules
+node_modules/
+npm-debug.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE Files
+.vscode/settings.json
+.idea/
+
+# OS Specific
+*~
+*.bak
