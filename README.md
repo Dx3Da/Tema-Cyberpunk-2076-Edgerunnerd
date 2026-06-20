@@ -88,7 +88,7 @@ Preferences: Color Theme
 7. Select:
 
 ```txt
-Night City Dark
+Cidade: Night City
 ```
 
 ---
@@ -192,7 +192,7 @@ F5
 Then select:
 
 ```txt
-Night City Dark
+Night City
 ```
 
 inside:
@@ -208,14 +208,19 @@ Preferences: Color Theme
 Current version:
 
 ```txt
-v0.0.1
+v0.0.2
 ```
 
 ---
 
 # 📄 License
 
-MIT License
+This project is licensed under the **MIT License**. You are free to download, use, and modify it for personal use, provided that original author attribution is maintained.
+
+### Disclaimer (Fan Project)
+This is an open-source, non-profit fan project. 
+* The names *Arasaka*, *Night City*, and *Edgerunners* are conceptual properties inspired by the Cyberpunk 2077 universe, owned by **CD Projekt Red** and **Studio Trigger**.
+* All code files, color palettes, and assets in this repository were independently developed using in-game color mapping and AI tools, without using official protected source files or proprietary visual assets from third parties.
 
 ---
 
